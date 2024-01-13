@@ -17,8 +17,6 @@ Git is a distributed version control system, while GitHub is a web-based platfor
 ## Explain in simple terms git cherry-pick and the command for it:
 Git cherry-pick is used to apply a specific commit from one branch to another. 
 
-
-
 ## Explain in simple terms git rebase and the command for it:
 Git rebase is used to integrate changes from one branch into another by moving or combining commits. The command is:
 ```bash
